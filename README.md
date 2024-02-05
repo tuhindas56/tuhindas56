@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning frontend web development.<br>🎯 Goals: Full stack web development and working on freelance web development projects<br>🎲 Fun fact: I also love producing music!</p>
+<p align="left">📚 I'm currently learning frontend web development.<br>🎯 Goals: Full stack web development and working on freelance web development projects<br>🎲 Fun fact: I also love producing <a href="https://linktr.ee/tuhindas56">music!</a></p>
 
 ###
 
