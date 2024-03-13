@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Tuhin Das and I'm an aspiring Web Developer from Assam, India</p>
+<p align="left"> I am a learning Web Developer from Assam, India</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning frontend web development.<br>🎯 Goals: Full stack web development and working on freelance web development projects<br>🎲 Fun fact: I also love producing <a href="https://linktr.ee/tuhindas56">music!</a></p>
+<p align="left">📚 Learning web developmer.<br>🎯 Goals: Full stack web development and working freelance<br>🎲 Fun fact: I also produce <a href="https://linktr.ee/tuhindas56">music!</a></p>
 
 ###
 
@@ -22,8 +22,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
