@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 Learning web developmer.<br>🎯 Goals: Full stack web development and working freelance<br>🎲 Fun fact: I also produce <a href="https://linktr.ee/tuhindas56">music!</a></p>
+<p align="left">📚 Learning web developer.<br>🎯 Goals: Full stack web development and working freelance<br>🎲 Fun fact: I also produce <a href="https://linktr.ee/tuhindas56">music!</a></p>
 
 ###
 
