@@ -1,5 +1,4 @@
-<!---### Hi there 👋--->
-<h1 align="left">Hey, I'm Tuhin! 👋</h1>
+<h1 align="left">Hey, I'm Tuhin!</h1>
 
 ###
 
