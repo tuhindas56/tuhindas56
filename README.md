@@ -1,17 +1,9 @@
 <!---### Hi there 👋--->
-<h1 align="left">Hi! 👋</h1>
+<h1 align="left">Hey, I'm Tuhin! 👋</h1>
 
 ###
 
-<p align="left"> I am a learning Web Developer from Assam, India</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 Learning web developer.<br>🎯 Goals: Full stack web development and working freelance<br>🎲 Fun fact: I also produce <a href="https://linktr.ee/tuhindas56">music!</a></p>
+<p align="left"> I am a self taught web developer from India.</p>
 
 ###
 
@@ -19,19 +11,19 @@
 
 ###
 
-<div align="left">
+<div align="left" style="background-color: #ccc">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
+  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="astro logo"  /> -->
+<!--   <img width="12" /> -->
 
   <!-- SOON!
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
@@ -45,11 +37,15 @@
 </div>
 
 ###
+
+<h3>Socials:</h3>
+<a href="https://linkedin.com/in/tuhindas56" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+</a>
+
 <!--
 **tuhindas56/tuhindas56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
