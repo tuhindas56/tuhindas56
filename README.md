@@ -1,6 +1,6 @@
-<p align="left">Self taught web developer from India</p>
+<p align="left">Self-taught web developer from India</p>
 
-### I work with
+### Tech Stack
 <div style="background-color: #ccc">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="Typescript logo"  />
   <img width="8" />
