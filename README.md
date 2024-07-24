@@ -9,7 +9,7 @@
   
 ### JavaScript
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="Typescript logo"  /><img width="8" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35" alt="JestJS logo"  /><img width="8" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="35" alt="Webpack logo"  /><img width="8" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="35" alt="ViteJS logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="Typescript logo"  /><img width="8px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35" alt="JestJS logo"  /><img width="8px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="35" alt="Webpack logo"  /><img width="8px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="35" alt="ViteJS logo"  />
 
   <!-- Will possibly learn:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="astro logo"  />
