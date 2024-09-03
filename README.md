@@ -26,9 +26,9 @@ I am a self-taught web developer from India
 #### Bundlers
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="35" alt="ViteJS logo"  />](https://vitejs.dev/) &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="35" alt="Webpack logo"  />](https://webpack.js.org/)
-#### Databases
+<!--#### Databases
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL logo"  />](https://www.postgresql.org/) &nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL logo"  />](https://www.mysql.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL logo"  />](https://www.mysql.com/) -->
 
 
 
