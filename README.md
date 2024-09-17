@@ -9,7 +9,7 @@ I am a self-taught web developer from India
 - Build a full-stack application
 - Get into cloud computing
 - Learn **Next.js** and **Vue.js**
-- Learn another programming language (Python and/or Go)
+- Learn another programming language (Go and/or Python)
 - Contribute to open-source
 
 
