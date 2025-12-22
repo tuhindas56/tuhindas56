@@ -1,5 +1,5 @@
 ## About me
-I'm an aspiring software developer.
+Frontend developer
 
 <!-- #### Languages & Tools
 ![](https://skillicons.dev/icons?i=typescript,python "TypeScript, Python")
