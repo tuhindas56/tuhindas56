@@ -1,5 +1,5 @@
 ## About me
-Frontend developer
+A commerce graduate with a keyboard and a dream
 
 <!-- #### Languages & Tools
 ![](https://skillicons.dev/icons?i=typescript,python "TypeScript, Python")
