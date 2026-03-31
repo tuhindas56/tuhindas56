@@ -27,7 +27,8 @@ Commerce graduate with a keyboard and a dream
 |----------------|---------------------------------------|
 | Languages      | TypeScript, Python                    |
 | Backend        | Node.js, Flask, PostgreSQL, MySQL     |
-| Frontend & UI  | React, Tailwind CSS, Figma            |
-| Build Tools    | Webpack, Vite                         |
+| Frontend & UI  | Tailwind CSS, Bootstrap, MUI, Figma |
+| Frameworks | React, Next.js |
+| Build Tools    | Vite, Webpack                         |
 | Testing        | Jest, Vitest                          |
 | Other          | WordPress                             |
